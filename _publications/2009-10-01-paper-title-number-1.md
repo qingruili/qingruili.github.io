@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Song Trends Analysis"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Preprocessed and merged datasets of the top 200 songs with economic and happiness metrics using PySpark on AWS EMR, retrieving lyrics via the Genius API and caching data in AWS S3. Applied Hugging Face models to analyze emotions in song lyrics across 25+ languages, uncovering patterns in sentiment, language, and their influence on global music trends. Designed an interactive Power BI dashboard to showcase insights on how economic trends, happiness, and sentiment impact song popularity across countries and years.'
