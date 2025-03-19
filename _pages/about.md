@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ":wave: Hello there, I'm Rachel!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
