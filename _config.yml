@@ -25,9 +25,9 @@ author:
   avatar           : "avatar.JPG"
   name             : "Rachel (Qingrui) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Burnaby, Canada"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "qingruili3@gmail.com" 
 
