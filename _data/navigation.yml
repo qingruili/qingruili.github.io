@@ -14,14 +14,15 @@ main:
   - title: "CV"
     url: /files/Resume.pdf   
 
+  - title: "Blog Posts"
+    url: /year-archive/
+
   #- title: "Teaching"
   #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+      
     
   #- title: "CV"
   #  url: /cv/
