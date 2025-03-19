@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 About Me
+## 👋 About Me 
 I’m a Master’s student in Big Data at Simon Fraser University who loves turning raw data into actionable insights. My journey began in undergrad when I first discovered how patterns in numbers tell powerful stories—and it’s driven everything I do since.
+
 
 ## 🎓 Education
 MSc in Big Data, Simon Fraser University (Sept 2024 – Present) <br>
