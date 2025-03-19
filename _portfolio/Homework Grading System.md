@@ -1,8 +1,8 @@
 ---
-title: ":hotel: Hotel Price Optimization Project"
-excerpt: "A project forecasting hotel prices using Python-based data cleaning and machine learning models."
+title: ":open_book: Homework Grading System"
+excerpt: "A project helping professor to auto-grade homework."
 collection: portfolio
-mydate: 2023-05-01
+mydate: 2023-01-01
 ---
 Date: Jan 2023 - Apr 2023
 

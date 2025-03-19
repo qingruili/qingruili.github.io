@@ -1,6 +1,6 @@
 ---
 title: ":notes: Song Trends Analysis"
-excerpt: "A project integrating top song data with economic, happiness, and multilingual sentiment analysis into an interactive dashboard. <br/><img src='images/songs.png'>"
+excerpt: "A project integrating top song data with economic, happiness, and multilingual sentiment analysis into an interactive dashboard."
 collection: portfolio
 mydate: 2024-09-01
 ---
