@@ -19,4 +19,5 @@ The project is about how machine learning, specifically the Nested Clustered Opt
 5. Evaluated results, finding that NCO generally produced higher Sharpe ratios and lower RMSEs in challenging or high-dimensional situations, indicating better real-world stability.
 
 6. Developed a user-friendly website to let investors input their chosen stocks and risk preferences to receive optimized portfolio recommendations using NCO.
+   
 [Link to the Project](https://github.com/qingruili/PORTFOLIO-OPTIMIZATION)
